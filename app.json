@@ -17,36 +17,42 @@
   "env": {
     "API_ID": {
       "description": "api_id part of your Telegram API Key from my.telegram.org/apps",
+      "value": "1492128",
       "required": true
     },
     "API_HASH": {
       "description": "api_hash part of your Telegram API Key from my.telegram.org/apps",
+      "value": "496a1aab7943406f28e3de49fff16ea2",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "Bot token of Bot, get from @Botfather",
+      "value": "1757219716:AAFUuhq93FR4ggr_xwwgueGIZa0wljD2Qhc",
       "required": true
     },
     "ARQ_API": {
       "description": "get it for free from @ARQRobot",
+      "value": "ZCGMTA-WTNMXA-AXBKXK-SWVFVH-ARQ",
       "required": true
     },
     "SESSION_STRING": {
       "description": "Session string, use @genstr_bot",
+      "value": "BQApa8zk11VMBfzwIO1AinC0lCnYWeZrVZaqWgbGvi2bxMFjHpsmIdIKh6AirAqHsF6hl0TnyQDXsWr_TU_N_IseVvQcfjnWLdfYHy_5wol9nRdRD6BEPwhGGWhoAAJAGWKQw-fgR-REtOUN52FsTjKL6y2XmpxxF4NIT-Way43NFKlmL6sDCKellKPOIClhCgByZKQ2q5ZXTzpz_BiHXFtIwTv6nRdAzSVP7x0Zl_c9LXyoqAEq3N4RYKPQJ_Y6gpKrQeJ53CrRyrvV0nMlQ7lTKD50awxqrEMmbby3Nb-2RcELldk431jkMxkxzYn97oYvt2JTAtwnsaOWNAzDKiR4RqbyRwA",
       "required": true
     },
     "CHAT": {
       "description": "ID of Channel or Group where the Bot plays Music",
-      "value": "-100",
+      "value": "-1001403236771",
       "required": true
     },
     "LOG_GROUP": {
       "description": "ID of the group to send playlist If CHAT is a Group, if channel thenleave blank",
+      "value": "-1001403236771"
       "required": false
     },
     "ADMINS": {
       "description": "ID of Users who can use Admin commands seperated by space)",
-      "value": "749673781",
+      "value": "1185346119",
       "required": true
     },
     "STREAM_URL": {
@@ -61,7 +67,7 @@
     },
     "ADMIN_ONLY": {
       "description": "Make All Commands Admin Only Usable Y/N",
-      "value": "Y",
+      "value": "N",
       "required": false
     },
     "DUR": {
